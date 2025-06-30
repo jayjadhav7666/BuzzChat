@@ -31688,7 +31688,7 @@ ly(){var s=0,r=A.N(t.H),q,p,o,n,m
 var $async$ly=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:try{o=self
 n=o.document.createElement("a")
-n.href="https://github.com/jayjadhav7666/BuzzChat/releases/download/1.0.0/BuzzChat.apk"
+n.href="https://github.com/jayjadhav7666/BuzzChat/releases/download/1.0/BuzzChat.apk"
 n.download="BuzzChat.apk"
 q=n
 o.document.body.append(q)
